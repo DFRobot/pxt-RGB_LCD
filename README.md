@@ -11,7 +11,7 @@ Date:   2019.October
 
 open your microbit makecode project, in Extension, paste  
 
-https://github.com/tangjie133/RGB_LCD
+https://github.com/DFRobot/pxt-RGB_LCD
 
 to search box then search.
 
