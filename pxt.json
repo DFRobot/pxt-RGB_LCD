@@ -1,0 +1,19 @@
+{
+    "name": "RGB_LCD",
+    "version": "0.0.1",
+    "description": "Color display screen ",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "RGB_LCD.ts",
+        "_locales/zh-cn/RGB_LCD-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "license": "MIT"
+}
